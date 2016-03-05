@@ -1,0 +1,18 @@
+{
+  "name": "react-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Prashanth Yerramilli"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
